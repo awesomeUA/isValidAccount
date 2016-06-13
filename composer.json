@@ -4,8 +4,9 @@
     "require":{
         "php":">=5.3.0"
     },
+	"require-dev": {},
     "autoload":{
-        "psr-0":{
+        "psr-4":{
             "App\\Lib\\Stellar\\":"src"
         }
     }
