@@ -1,13 +1,13 @@
 {
-    "name":"stellar/isvalidaccount",
-    "version":"1.0.0",
-    "require":{
+    "name": "stellar/isvalidaccount",
+	"description": "test",
+    "require": {
         "php":">=5.3.0"
     },
 	"require-dev": {},
-    "autoload":{
-        "psr-4":{
-            "App\\Lib\\Stellar\\":"src"
+    "autoload": {
+        "psr-4": {
+            "App\\Lib\\Stellar\\": "src"
         }
     }
 }
